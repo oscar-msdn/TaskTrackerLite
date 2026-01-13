@@ -26,7 +26,7 @@ Run the backend :
 -> dotnet run --project Api
 
 Test the API(Swagger/OpenAPI):
--> https://localhost:5269/swagger
+-> http://localhost:5269/swagger
 
 Notes:
 Make sure the Data folder exists before running the database update.
@@ -48,8 +48,8 @@ By default, Vite will run the frontend on:
 
 4. Connect to the backend
 
-The frontend makes API calls to the backend (https://localhost:5001)
+The frontend makes API calls to the backend (http://localhost:5269)
 Make sure the backend is running before using the frontend.
-You can configure the backend URL in your frontend env file (e.g., .env.local) if needed:
--> VITE\_API\_URL=https://localhost:5001
+You can configure the backend URL in your frontend env file (e.g., .env) if needed:
+-> VITE\_API\_URL=http://localhost:5269
 
