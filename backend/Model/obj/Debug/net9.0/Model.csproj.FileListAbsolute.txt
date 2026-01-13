@@ -1,0 +1,12 @@
+G:\PT\TaskTrackerLite\backend\Model\bin\Debug\net9.0\Model.deps.json
+G:\PT\TaskTrackerLite\backend\Model\bin\Debug\net9.0\Model.dll
+G:\PT\TaskTrackerLite\backend\Model\bin\Debug\net9.0\Model.pdb
+G:\PT\TaskTrackerLite\backend\Model\obj\Debug\net9.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\PT\TaskTrackerLite\backend\Model\obj\Debug\net9.0\Model.AssemblyInfoInputs.cache
+G:\PT\TaskTrackerLite\backend\Model\obj\Debug\net9.0\Model.AssemblyInfo.cs
+G:\PT\TaskTrackerLite\backend\Model\obj\Debug\net9.0\Model.csproj.CoreCompileInputs.cache
+G:\PT\TaskTrackerLite\backend\Model\obj\Debug\net9.0\Model.sourcelink.json
+G:\PT\TaskTrackerLite\backend\Model\obj\Debug\net9.0\Model.dll
+G:\PT\TaskTrackerLite\backend\Model\obj\Debug\net9.0\refint\Model.dll
+G:\PT\TaskTrackerLite\backend\Model\obj\Debug\net9.0\Model.pdb
+G:\PT\TaskTrackerLite\backend\Model\obj\Debug\net9.0\ref\Model.dll

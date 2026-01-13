@@ -1,4 +1,4 @@
-import { TaskItem } from "../model/Task";
+import { TaskItem } from "../models/TaskItem";
 
 export const taskMock: TaskItem[] = [
      new TaskItem(
